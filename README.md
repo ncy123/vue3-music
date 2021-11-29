@@ -7,4 +7,4 @@ vue + vuex + vue-router + axios + element-plus
     npm install
     npm run dev
 ### 接口数据
-本项目使用的所有接口都来自于网易云API
+本项目使用的所有接口都来自于[网易云音乐API](https://neteasecloudmusicapi.vercel.app/#/)
